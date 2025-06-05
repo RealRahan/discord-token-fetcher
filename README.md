@@ -99,4 +99,4 @@ python discord_token.py
 
 For questions you can dm me:
 
-[![Discord](https://img.shields.io/badge/Discord-Rhn%20%F0%9F%9A%80-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1336772500490686535)
+[![Discord](https://img.shields.io/badge/Discord-Rahan%20%F0%9F%9A%80-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1336772500490686535)
